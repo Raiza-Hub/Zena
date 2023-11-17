@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
         fontFamily: {
-          heading: ['Rubik', 'sans-serif'],
-          text: ['Rubik', 'sans-serif']
+          heading: ['Sofia Sans', 'sans-serif'],
+          text: ['Sofia Sans', 'sans-serif']
         }
     },
   },
