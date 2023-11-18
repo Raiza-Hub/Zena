@@ -4,3 +4,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    .active{
+        @apply bg-primary-linen rounded-md
+   } 
+}
